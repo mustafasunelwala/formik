@@ -26,6 +26,12 @@ const users = [
     pinned: true,
   },
   {
+    caption: 'Globant',
+    image: 'https://www.globant.com/themes/custom/globant_corp_theme/images/2019/globant-logo-dark.svg',
+    infoLink: 'https://www.globant.com/',
+    pinned: true,
+  },
+  {
     caption: 'Walmart',
     image: '/formik/img/logos/walmart.svg',
     infoLink: 'https://walmart.com',
